@@ -4,7 +4,7 @@ Selam! ben faliho,<br>kodlama işlerine 2023 de daha sık girişmeye başladığ
 
 
 ## Linklerim;
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7gSDSVdnf2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/falihoxd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UClhoVM5IARzkp2oAQG4ErRw) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7gSDSVdnf2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fal1h0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UClhoVM5IARzkp2oAQG4ErRw) 
 
 # 📊 Github İstatisiğim;
 ![](https://github-readme-stats.vercel.app/api?username=falih0&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
